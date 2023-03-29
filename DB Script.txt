@@ -1,0 +1,7 @@
+CREATE TABLE Students
+(
+    [StudentId] INT NOT NULL PRIMARY KEY, 
+    [StudentName] VARCHAR(50) NULL, 
+    [StudentFees] INT NULL, 
+    [StudentCity] VARCHAR(50) NULL
+)
